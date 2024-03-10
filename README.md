@@ -33,14 +33,6 @@ projects are available at
       height="30"
       width="40"
   /></a>
-  <a href="https://medium.com/@youssefock084" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-      alt="@youssefock084"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://www.leetcode.com/youssef-hachi/" target="blank"
     ><img
       align="center"
