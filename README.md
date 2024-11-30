@@ -78,7 +78,7 @@ projects are available at
     />
   </a>
   <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    href="https://github.com/youssef-hachimi/JavaScript"
     target="_blank"
     rel="noreferrer"
   >
